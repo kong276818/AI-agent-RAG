@@ -295,13 +295,13 @@ Agentic RAG는 유연하고 능동적인 AI 구조를 제공하지만, 그 작�
 
 ---
 
-## /5장 실전 활용 사례 (Practical Use Cases)
+## 5장 실전 활용 사례 (Practical Use Cases)
 
 Agentic RAG는 단순한 질의응답 시스템을 넘어, **정확성**, **상황 적응력**, **다단계 정보 처리 능력**이 요구되는 다양한 실제 환경에서 강력한 성능을 발휘합니다.
 
 ---
 
-### /5.1 정확성 중심 환경 (Correctness-First Environments)
+### 5.1 정확성 중심 환경 (Correctness-First Environments)
 
 **특징:** 사실 기반 응답이 반드시 검증 가능해야 하는 고신뢰 영역
 
@@ -352,7 +352,7 @@ Agentic RAG는 단순한 질의응답 시스템을 넘어, **정확성**, **상�
 
 ---
 
-### /5.3 확장형 워크플로우 (Extended Multi-Step Workflows)
+### 5.3 확장형 워크플로우 (Extended Multi-Step Workflows)
 
 **특징:** 단일 질의로 끝나지 않고, **여러 단계를 거쳐 복합적인 문제 해결이 필요한 경우**
 
@@ -380,7 +380,7 @@ Agentic RAG는 단순한 검색이 아닌 **동적 판단 기반의 에이전트
 
 ---
 
-## /6장 거버넌스, 투명성, 신뢰 (Governance, Transparency, and Trust)
+## 6장 거버넌스, 투명성, 신뢰 (Governance, Transparency, and Trust)
 
 Agentic RAG 시스템은 자율적으로 검색, 도구 호출, 응답 생성을 수행하지만, 이를 조직이나 사회에서 실제로 적용하기 위해서는 **책임성(Accountability)**과 **설명 가능성(Explainability)**을 전제로 한 **신뢰 체계 구축**이 필수적입니다.
 
@@ -405,7 +405,7 @@ Agentic RAG는 다음과 같은 방식으로 추론 경로를 투명하게 제�
 
 ---
 
-### /6.2 편향 통제 및 균형 검색 (Bias Control and Balanced Retrieval)
+### 6.2 편향 통제 및 균형 검색 (Bias Control and Balanced Retrieval)
 
 Agentic RAG는 외부 데이터를 기반으로 판단하기 때문에, **정보 편향(Bias)**을 포함할 가능성이 있습니다. 이를 방지하기 위해 다음과 같은 조치를 취할 수 있습니다:
 
@@ -447,7 +447,7 @@ Agentic RAG의 강점은 자율성과 유연성에 있지만, 이를 실제 운�
 
 ---
 
-## /7장 결론
+## 7장 결론
 
 Agentic RAG는 단순 생성 AI를 넘어, **상황 판단, 도구 조합, 반복 정제**가 가능한 **지능형 AI 프레임워크**입니다.
 
