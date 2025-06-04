@@ -386,7 +386,7 @@ Agentic RAG 시스템은 자율적으로 검색, 도구 호출, 응답 생성을
 
 ---
 
-### /6.1 설명 가능한 추론 (Explainable Reasoning)
+### 6.1 설명 가능한 추론 (Explainable Reasoning)
 
 Agentic RAG는 다음과 같은 방식으로 추론 경로를 투명하게 제공합니다:
 
