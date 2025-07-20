@@ -1,5 +1,5 @@
 # AI-agent-RAG  
-Introducing research items on AI agent RAG.
+Introducing research items on AI agent RAG
 
 ## 1장 Agentic RAG 개요
 
